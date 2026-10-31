@@ -1,0 +1,8 @@
+[mod]
+id = "fullbright"
+name = "Fullbright"
+version = "1.0.0"
+description = "Toggle maximum brightness (1000% gamma / full cave & night illumination) with a keybind (default: G), with optional smooth fade and HUD feedback."
+authors = ["CayMac"]
+kind = "native"
+entrypoint = "mixins/fullbright/runtime.rs"
