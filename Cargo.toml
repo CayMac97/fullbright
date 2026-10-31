@@ -7,6 +7,6 @@ license = "MIT"
 publish = false
 
 [lib]
-path = "mixins/fullbright/runtime.rs"
+path = "mixins/fullbright_horizon/runtime.rs"
 
 [dependencies]

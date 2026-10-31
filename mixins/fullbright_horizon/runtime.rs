@@ -7,7 +7,7 @@
 use std::cell::RefCell;
 
 /// The mod's id (its settings folder and its keybind prefix).
-pub const ID: &str = "fullbright";
+pub const ID: &str = "fullbright_horizon";
 pub const NAME: &str = "Fullbright";
 pub const VERSION: &str = "1.0.0";
 pub const DESCRIPTION: &str =
